@@ -1,5 +1,5 @@
 [project]
-name = "gus_nba_tools"                # your PyPI package name
+name = "gus_nba_tools"              
 version = "0.2.3"
 description = "Tools for processing NBA player and team data"
 readme = "README.md"
@@ -18,4 +18,5 @@ dependencies = [
 requires = ["setuptools>=61.0"]
 
 [tool.setuptools.packages]
+
 find = {}
