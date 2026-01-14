@@ -87,7 +87,7 @@ This allows positionlessness to be quantified rather than subjectively defined.
 - **Key finding:** ~50% of identified positionless players were NBA champions  
 - **Context:** This is significantly above the ~12% league-average championship probability
 
-This supports the hypothesis that positionless players are overrepresented among championship-winning teams. Less notable players at top of entropy list
+This supports the hypothesis that positionless players are overrepresented among championship-winning teams. Less notable players at top of the entropy list
 can be used for uncovering potential
 
 
