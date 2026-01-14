@@ -99,7 +99,7 @@ This library contains reusable tools for:
 
 - Feature engineering
 - Metric calculation
-- Data validation
+- Data cleaning
 - Position analysis utilities
 
 The library is published and versioned independently, and is used throughout the modelling pipeline to ensure clean, modular, and reproducible code.
